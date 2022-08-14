@@ -3,7 +3,7 @@ preview card component
 # language used
 html 5.0
 css
-#link
+# link
 githublink:https://github.com/musa108/component2/new/master
 live url:https://musa108.github.io/component2/
 

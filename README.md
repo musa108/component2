@@ -5,4 +5,5 @@ html 5.0
 css
 #link
 githublink:https://github.com/musa108/component2/new/master
-live url:
+live url:https://musa108.github.io/component2/
+

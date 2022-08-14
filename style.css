@@ -1,0 +1,27 @@
+body{
+    background:hsl(233, 47%, 7%) ;
+}
+.component{
+display: flex;
+flex: wrap;
+align-items: center;
+justify-content: center;
+margin-top: 100px;
+}
+.message{
+    color:hsla(0, 0%, 100%, 0.6) ;
+    margin-left: 20px;
+    background:hsl(244, 38%, 16%) ;
+    padding: 110px;
+}
+.insight{
+color:  hsl(277, 64%, 61%);
+}
+.image{
+   width: 30%;
+}
+.rating{
+   display: flex; 
+   flex-wrap: wrap;
+   gap: 20px;
+}
